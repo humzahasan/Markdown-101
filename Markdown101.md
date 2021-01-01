@@ -1,0 +1,1 @@
+This file contains the getting started guide for beginner to start thier mastering the markdown journey.
