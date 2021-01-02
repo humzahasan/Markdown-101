@@ -8,3 +8,9 @@ Here is an example:
 This will be inline
 
 Whereas this will go to the next line as a seperate paragaraph.
+
+Formatting Text : Bold and Italics
+
+**This is bold, it is enclosed between double astricks(*) **
+
+_This is italics, it is enclosed within a single underscore(_). _
