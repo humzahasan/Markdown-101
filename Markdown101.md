@@ -1,4 +1,4 @@
-This file contains the getting started guide for beginner to start thier mastering the markdown journey.
+This file contains the getting started guide for beginner to start thier journey of mastering markdown files. We will be covering the basics of markdown files starting from headings, paragraphs, text formatting, links, images, list and finally tables.
 
 Paragraph
 
@@ -14,3 +14,4 @@ Formatting Text : Bold and Italics
 **This is bold, it is enclosed between double astricks(*) **
 
 _This is italics, it is enclosed within a single underscore(_). _
+
