@@ -22,10 +22,13 @@ Whereas this will go to the next line as a seperate paragaraph.
 
 ## Formatting Text : Bold and Italics
 
-** This is bold, it is enclosed between double astricks(*) * *
-* Another way to bold text is to enclose them with single astricks(*)*
+**This is bold, it is enclosed between double astricks**
+
+__Double underscores enclosed text are also formatted as bold text.__
+
+_This is italics, it is enclosed within a single underscore._
+
+*Another way to make text italic is to enclose them with single astricks*
 
 
-_ This is italics, it is enclosed within a single underscore(_). _
-__ Double underscores enclosed text also are formatted as italic text.__
 
