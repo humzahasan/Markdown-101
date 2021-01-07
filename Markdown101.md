@@ -30,5 +30,47 @@ _This is italics, it is enclosed within a single underscore._
 
 *Another way to make text italic is to enclose them with single astricks*
 
+## Lists in Markdown
+
+### Unordered List using asterisk
+
+* One
+* Two
+* Three
+
+### Unordered List using plus sign
+
++ One
++ Two
++ Three
+
+### Unordered List using minus sign
+
+- One
+- Two
+- Three
+
+### Ordered List using a single number
+
+1. One
+1. Two
+1. Three
+
+### Ordered List using incrementing number
+
+1. One
+2. Two
+3. Three
 
 
+### Task List (unordered)
+
+- [x] Be Positive
+- [ ] Success on the way
+- [ ] Hustle
+
+### Task List (ordered)
+
+1. [x] Hustle
+1. [ ] Success on the way
+1. [ ] Be Positive
