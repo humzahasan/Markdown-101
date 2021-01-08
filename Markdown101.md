@@ -74,3 +74,14 @@ _This is italics, it is enclosed within a single underscore._
 1. [x] Hustle
 1. [ ] Success on the way
 1. [ ] Be Positive
+
+## Images In Markdown Files
+
+![Random Image 1](https://picsum.photos/200)
+
+
+![Random Image 2](ttps://picsum.photos/200/200)
+
+
+![Random Image 3](https://picsum.photos/200/200 "On Hover")
+
