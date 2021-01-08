@@ -85,3 +85,11 @@ _This is italics, it is enclosed within a single underscore._
 
 ![Random Image 3](https://picsum.photos/200/200 "On Hover")
 
+## Links In Markdown Files
+[Let's Connect On LinkedIn](https://www.linkedin.com/in/humzahasannit/)
+
+
+[Check Out My Instagram Page][insta]
+
+
+[insta]:https://www.instagram.com/codewithbravopy
