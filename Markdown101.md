@@ -93,3 +93,27 @@ _This is italics, it is enclosed within a single underscore._
 
 
 [insta]:https://www.instagram.com/codewithbravopy
+
+## Code Blocks in Markdown Files
+
+Code Block without language syntax highlighting
+```
+var name = 'Humza';
+var username = 'Bravopy';
+console.log(`Hey, this is ${name} aka ${username}`);
+```
+
+
+Code Block with language specific syntax highlighting
+```
+javascript
+var name = 'Humza';
+var username = 'Bravopy';
+console.log(`Hey, this is ${name} aka ${username}`);
+```
+
+
+This is how we put inline code `git push origin main`
+
+
+## Tables in Markdown Files
