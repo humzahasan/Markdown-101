@@ -117,3 +117,18 @@ This is how we put inline code `git push origin main`
 
 
 ## Tables in Markdown Files
+
+
+Tables in Markdown are enclosed between vertical bar (pipe) symbol. The content can be aligned left, right and center using colon symbol.
+
+| Left columns  :| Right columns |
+| ------------- |:-------------:|
+| Default     | I am in center     |
+
+
+| Left columns  | Right columns |
+| -------------: |:-------------|
+| I am in right     | I am in left |
+  
+
+  
